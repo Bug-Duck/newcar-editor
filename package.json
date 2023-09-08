@@ -1,0 +1,24 @@
+{
+  "name": "newcar-editor",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@codemirror/lang-javascript": "^6.2.1",
+    "@codemirror/theme-one-dark": "^6.1.2",
+    "@codemirror/view": "^6.18.0",
+    "bootstrap": "^5.3.1",
+    "newcar": "^0.4.0",
+    "vue": "^3.3.4",
+    "vue-codemirror": "^6.1.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.4.5"
+  }
+}
